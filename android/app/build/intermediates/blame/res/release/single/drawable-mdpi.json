@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/release/drawable-mdpi/src_assets_logoicon.png",
+        "source": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/src/main/res/drawable-mdpi/src_assets_logoicon.png"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/release/drawable-mdpi/src_assets_bgimage.png",
+        "source": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/src/main/res/drawable-mdpi/src_assets_bgimage.png"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/release/drawable-mdpi/src_assets_logo.png",
+        "source": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/src/main/res/drawable-mdpi/src_assets_logo.png"
+    }
+]

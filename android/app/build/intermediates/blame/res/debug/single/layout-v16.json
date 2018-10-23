@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner 1/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner 1/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner (copy)/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/nimmi/Desktop/new/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/nimmi/Desktop/new/Find-Your-Partner (copy)/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner/Find-Your-Partner/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner/Find-Your-Partner/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

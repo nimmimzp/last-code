@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner/Find-Your-Partner/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner/Find-Your-Partner/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner (copy)/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner/android/app/build/intermediates/exploded-aar/FindYourPartner/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner 1/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner 1/android/app/build/intermediates/exploded-aar/FindYourPartner/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/nimmi/Desktop/new/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/nimmi/Desktop/new/Find-Your-Partner (copy)/android/app/build/intermediates/exploded-aar/FindYourPartner/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner/Find-Your-Partner/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner/Find-Your-Partner/android/app/build/intermediates/exploded-aar/FindYourPartner/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner 1/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner 1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner/new/Find-Your-Partner (copy)/android/app/build/intermediates/exploded-aar/FindYourPartner/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/deligence/Desktop/Find-Your-Partner (copy)/android/app/build/intermediates/exploded-aar/FindYourPartner/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/nimmi/Desktop/new/Find-Your-Partner (copy)/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/nimmi/Desktop/new/Find-Your-Partner (copy)/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    }
+]
